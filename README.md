@@ -1,14 +1,16 @@
-# Sistema de Gerenciamento de Tarefas
+# Entrega Módulo 2 – Taiane dos Santos Pereira
 
-Projeto final do módulo de HTML5 e CSS3.
+## Sistema de Gerenciamento de Tarefas
 
-## Abrir o projeto
-Abra o arquivo `index.html` no navegador.
+Projeto acadêmico do Módulo 2.
 
 ## Páginas
 - Login: `index.html`
 - Cadastro: `pages/cadastro.html`
 - Dashboard: `pages/dashboard.html`
+- Nova tarefa: `pages/nova-tarefa.html`
+- Editar tarefa: `pages/editar-tarefa.html`
 - Detalhes: `pages/detalhes.html`
 
-A documentação completa está em `docs/documentacao.md`.
+## Autora
+Taiane dos Santos Pereira
